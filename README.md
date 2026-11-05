@@ -5,4 +5,4 @@
 Notebook link:https://notebook.google.com/notebook/891ca398-1fc3-4cb5-9ebe-749747677af9
 
 ## Project 2: Thinking in HTML
-Files in /project2
+Files in project2 uploaded 
